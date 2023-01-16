@@ -1,0 +1,28 @@
+{
+  "scriptFile": "__init__.py",
+  "bindings": [
+      {
+          "authLevel": "anonymous",
+          "type": "httpTrigger",
+          "direction": "in",
+          "name": "req",
+          "methods": [
+              "get",
+              "post"
+          ]
+      },
+      {
+          "type": "http",
+          "direction": "out",
+          "name": "$return"
+      },
+      {
+          "type": "blob",
+          "direction": "in",
+          "name": "all",
+          "path": "522f43be-48af-4f3d-a2d7-4deba1749d31/all.pkl",
+          "connection": "OtherStorage",
+          "dataType": "binary"
+      }
+  ]
+}
