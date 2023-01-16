@@ -1,8 +1,7 @@
-# P9  
-<img src="/img/azure.png" width="150"> <img src="/img/azf.png" width="150"> <img src="/img/vsc.png" width="150">     
- 
-**Projet d'application de recommandation de contenu**  
-  
+# P9 : Projet d'application de recommandation de contenu  
+<img src="/img/azure.png" width="150"> <img src="/img/azf.png" width="150"> <img src="/img/vsc.png" width="150">   
+
+## Enjeu   
 L'enjeu consiste à concevoir des scripts permettant de recommander du contenu à ses utilisateurs:  
 * Executer une chaine de traitements IA bout en bout
 	* conception d'un **MVP** sous forme d'uen application mobile de recommandation de contenu  
