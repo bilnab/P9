@@ -42,6 +42,8 @@ Azure:
 [lien1](/P9_v0.2.ipynb)  
 [lien2](/P9_v0.3_wblob.ipynb)  
 [lien3](/P9_v0.4_wcosmodb.ipynb)  
+et l'appli:
+[le rep](/P9_v1)  
   
 ## Présentation PDF:  
 [pdf complet](/P9.pdf)  
