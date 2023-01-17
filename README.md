@@ -4,7 +4,7 @@
 ## Enjeu   
 L'enjeu consiste à concevoir des scripts permettant de recommander du contenu à ses utilisateurs:  
 * Executer une chaine de traitements IA bout en bout
-	* conception d'un **MVP** sous forme d'uen application mobile de recommandation de contenu  
+	* conception d'un **MVP** sous forme d'une application mobile de recommandation de contenu  
 	* utiliser une architecture **SERVERLESS** avec des **azure functions** pour faire le lien entre système de recommandation et application  
 
 <img src="/img/reco.png" width="800">
